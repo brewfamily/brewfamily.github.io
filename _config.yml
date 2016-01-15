@@ -1,0 +1,15 @@
+# Site settings
+title: PML 2016
+email: 
+description: Brew family reunion in Spain
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brewfamily.github.io" # the base hostname & protocol for your site
+# twitter_username: username
+github_username: brewfamily
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

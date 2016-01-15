@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PML 2016</title>
+    <description>Brew family reunion in Spain</description>
+    <link>http://brewfamily.github.io/</link>
+    <atom:link href="http://brewfamily.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Jan 2016 12:03:53 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Jan 2016 12:03:53 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

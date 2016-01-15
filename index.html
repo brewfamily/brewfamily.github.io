@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<h1>Dates</h1>  
+
+<p><b>Main week:</b> <em>25-29 July 2016</em></p>  
+<p><b>Extension week:</b> <em>1-5 August 2015</em></p>
+
+<h1>Timeline</h1>
+
+<p><b>Arrival: </b>Barcelona, Spain on or before <em>24 July 2016.</em></p>
+<p><b>Departure: </b>Barcelona, Spain on or after <em>30 July 2016.</em></p>
+
+
+<p><b>Initial meet-up: </b>Palamós, Spain at 12:00 noon (Madrid time) on <em>Monday, 25 July 2016.</em></p>
+
+<p align='center'>Some random text here</p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
