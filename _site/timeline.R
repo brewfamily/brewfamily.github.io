@@ -123,12 +123,19 @@ palamos <- esp4[esp4@data$NAME_4 == 'Palamós',]
 # cols
 cols0 <- 'darkred'
 
+# Geocode el galeo restaurant
+meetup <- geocode(location = 'El Galeo, Palamos, Spain',
+                  source = 'google')
+
 m <- leaflet(palamos) %>%
   addProviderTiles("OpenStreetMap.BlackAndWhite") %>%
   addPolygons(
     stroke = FALSE, fillOpacity = 0.5, smoothFactor = 0.5,
     # color = ~colorQuantile("YlOrRd", moz$ID_1)(ID_1)
-    color = cols0)
+    color = cols0) %>%
+  addMarkers(lng = meetup$lon,
+             lat = meetup$lat,
+             popup = 'El Galeo restaurant. Noon, July 25.')
 m
 
 # Save the widget to an html file
@@ -139,6 +146,10 @@ saveWidget(m, file="/home/joebrew/Documents/brewfamily.github.io/maps/palamos.ht
 # Subset to just include area of SCQ
 scq <- esp4[esp4@data$NAME_4 == 'Santa Coloma de Queralt',]
 
+# Geocode el galeo restaurant
+meetup <- geocode(location = '61, Carretera Igualada, Santa Coloma de Queralt, Spain',
+                  source = 'google')
+
 # cols
 cols0 <- 'darkblue'
 
@@ -147,15 +158,21 @@ m <- leaflet(scq) %>%
   addPolygons(
     stroke = FALSE, fillOpacity = 0.5, smoothFactor = 0.5,
     # color = ~colorQuantile("YlOrRd", moz$ID_1)(ID_1)
-    color = cols0)
+    color = cols0) %>%
+  addMarkers(lng = meetup$lon,
+             lat = meetup$lat,
+             popup = 'Coloma\'s family\'s house')
 m
 
 # Save the widget to an html file
 saveWidget(m, file="/home/joebrew/Documents/brewfamily.github.io/maps/scq.html")
 
-
+########################3
 # Subset to just include area of BCN
 bcn <- esp4[esp4@data$NAME_4 == 'Barcelona',]
+
+meetup <- geocode(location = 'Carrer cienfuegos, 10, Barcelona, Spain',
+                  source = 'google')
 
 # cols
 cols0 <- 'darkgreen'
@@ -165,7 +182,10 @@ m <- leaflet(bcn) %>%
   addPolygons(
     stroke = FALSE, fillOpacity = 0.5, smoothFactor = 0.5,
     # color = ~colorQuantile("YlOrRd", moz$ID_1)(ID_1)
-    color = cols0)
+    color = cols0) %>%
+  addMarkers(lng = meetup$lon,
+             lat = meetup$lat,
+             popup = 'Joe and Coloma\'s apartment')
 m
 
 # Save the widget to an html file
