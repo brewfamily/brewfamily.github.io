@@ -6,25 +6,25 @@ permalink: /arrivals_and_departures/
 
 (All arrivals/departures are from the Barcelona airport, unless otherwise specified)
 
-## Gainesville Brews  
+## Gainesville Brews (Chris, Jaya, Kaelin, Michael, Rory)
 
 - Arrive: 7/24 at 11:50am   
 - Depart: 8/6 at 6:40am  
     - Details: Renting a car. Driving straight to SCQ, staying one night, then heading to Palamós the next day for the official start
 
-## San Jose Brews  
+## San Jose Brews (all of em)
 
 - Arrive: 7/24 at 10:05am  
 - Depart 7/29 at 8:00am   
     - Details: Staying the first night in Barcelona (Joe and Coloma's apartment), then heading to Palamós the next day for the official start
 
-## Palo Alto Longs  
+## Palo Alto Longs (S and C) 
 
 - Arrive by car from Germany (exact date not known)   
 - Depart 8/3 (exact time not known)  
     - Details: Unknown
 
-## Spain Brews  
+## Spain Brews (Joe and Coloma) 
 
 - Arrive: Will already be there    
 - Depart: Will stay there    
