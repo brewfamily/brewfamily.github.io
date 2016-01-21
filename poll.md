@@ -21,4 +21,4 @@ This questionnaire is meant to help us arrive at a consensus in regards to the b
 
 
 
-<iframe src = 'https://docs.google.com/spreadsheets/d/10Ak3vaERlh99j0I3PzjBb0iN8UgqddlG2OWw7j8n7Z8/pubhtml?gid=2128077217&single=true' width = 650, height = 500, align='center'></iframe>
+<iframe src = 'https://docs.google.com/spreadsheets/d/10Ak3vaERlh99j0I3PzjBb0iN8UgqddlG2OWw7j8n7Z8/edit?usp=sharing' width = 650, height = 500, align='center'></iframe>
