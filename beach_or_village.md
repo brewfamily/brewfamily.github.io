@@ -28,7 +28,11 @@ Palamós is a beach town on the Costa Brava (2 hour drive from Barcelona).  It a
 
 **Activities**: Hang out at the beach, hike along coast, explore the town   
 
-**Commentary**: The Costa Brava is obviously cool, as evidenced by the thousands of people who visit it every year. The idea here would be to get 1 or 2 large houses where we could do most of our hanging out, and then spend time during the day at the beach / in town.  The main thing that Palamós has that SCQ doesn't is the beach.
+**Housing**: Fancy villas (like https://www.homeaway.com/vacation-rental/p1870487 and https://www.homeaway.com/vacation-rental/p1707401) and hotels or rental apartments in town.  
+
+**Commentary**: The Costa Brava is obviously cool, as evidenced by the thousands of people who visit it every year. The idea here would be to get 1 or 2 large houses where we could do most of our hanging out, and then spend time during the day at the beach / in town.  The main thing that Palamós has that SCQ doesn't is the beach.  
+
+If we decide to go the Palamós route, Joe and Coloma will likely take a trip next week to explore housing options.  
 
 
 # Santa Coloma de Queralt  
@@ -40,12 +44,15 @@ Palamós is a beach town on the Costa Brava (2 hour drive from Barcelona).  It a
 Santa Coloma is a small farming village (about 2,000 people) in rural Catalunya (1 hour drive from Barcelona).  
 
 **Main selling point**: Non-touristy, local connections, price  
-
 **Main downside**: No beach  
 
-**Activities**: Hang out at the plaça (main square with lots of bars, restaurants and area to run around), hike, bike  
+**Activities**: Hang out at the plaça (main square with lots of bars, restaurants and area to run around), hike, bike   
+
+**Housing**: Fancy "casa rurals" (like http://www.cangasol.net/ and http://www.calpadro.net/) and with family (for those that want a no/low-cost option).
 
 **Commentary**: SCQ is a very "authentic" Catalan village. As with Palamós, the idea here would be to get 1 to 2 large houses. The advantage of having "local" connections here is that we can do things like (a) have barbecues on Coloma's family's properties, (b) arrange with local restaurant/bar-owners to arrange special spaces/meals for us.  SCQ is about 1 hour from the beach, so a day trip would be easy.  
+
+If we decide to go the SCQ route, Joe and Coloma can arrange housing/meals/activities easily (since Coloma knows everyone in town).  
 
 
 
