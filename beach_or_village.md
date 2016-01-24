@@ -44,6 +44,7 @@ If we decide to go the Palamós route, Joe and Coloma will likely take a trip ne
 Santa Coloma is a small farming village (about 2,000 people) in rural Catalunya (1 hour drive from Barcelona).  
 
 **Main selling point**: Non-touristy, local connections, price  
+
 **Main downside**: No beach  
 
 **Activities**: Hang out at the plaça (main square with lots of bars, restaurants and area to run around), hike, bike   
@@ -52,7 +53,7 @@ Santa Coloma is a small farming village (about 2,000 people) in rural Catalunya 
 
 **Commentary**: SCQ is a very "authentic" Catalan village. As with Palamós, the idea here would be to get 1 to 2 large houses. The advantage of having "local" connections here is that we can do things like (a) have barbecues on Coloma's family's properties, (b) arrange with local restaurant/bar-owners to arrange special spaces/meals for us.  SCQ is about 1 hour from the beach, so a day trip would be easy.  
 
-If we decide to go the SCQ route, Joe and Coloma can arrange housing/meals/activities easily (since Coloma knows everyone in town).  
+If we decide to go the SCQ route, Joe and Coloma can arrange all logistics (housing/meals/activities) easily (since Coloma knows everyone in town).  
 
 
 
@@ -68,4 +69,4 @@ This questionnaire is meant to help us decide whether to spend our time based at
 
 
 
-<iframe src = 'https://docs.google.com/spreadsheets/d/1xZscwbXzNe2CgBEEKFvOWzjYPoYIBoloJgWIxwK_zSM/edit?usp=sharing' width = 650, height = 500, align='center'></iframe>
+<iframe src = 'https://docs.google.com/spreadsheets/d/1xZscwbXzNe2CgBEEKFvOWzjYPoYIBoloJgWIxwK_zSM/pubhtml?gid=1395460449&single=true' width = 650, height = 500, align='center'></iframe>
