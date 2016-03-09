@@ -10,13 +10,13 @@ permalink: /arrivals_and_departures/
 
 - Arrive: 7/24 at 11:50am   
 - Depart: 8/6 at 6:40am  
-    - Details: Renting a car. Driving straight to SCQ, staying one night, then heading to Palamós the next day for the official start
+    - Details: Renting a car. Driving straight to SCQ
 
 ## San Jose Brews (all of em)
 
 - Arrive: 7/24 at 10:05am  
 - Depart 7/29 at 8:00am   
-    - Details: Staying the first night in Barcelona (Joe and Coloma's apartment), then heading to Palamós the next day for the official start
+    - Details: Staying the first night in Barcelona (Joe and Coloma's apartment)
 
 ## Palo Alto Longs (S and C) 
 
@@ -24,10 +24,15 @@ permalink: /arrivals_and_departures/
 - Depart 8/3 (exact time not known)  
     - Details: Unknown
 
+## Washington Brews (T and D)  
+
+- Arrive in Barcelona the evening of 7/23
+- Leave (to Switzerland) on 8/2
+
 ## Spain Brews (Joe and Coloma) 
 
 - Arrive: Will already be there    
 - Depart: Will stay there    
-    - Details: Will be in SCQ until 7/25 (the official start).
+    - Details: None
 
 Know your travel plans?  Email them to joebrew@gmail.com.
