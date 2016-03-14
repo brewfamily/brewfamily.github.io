@@ -26,8 +26,8 @@ permalink: /arrivals_and_departures/
 
 ## Washington Brews (T and D)  
 
-- Arrive in Barcelona the evening of 7/23
-- Leave (to Switzerland) on 8/2
+- Arrive in Barcelona on 7/23 at 10:05AM
+- Leave (to Switzerland) early on 8/2
 
 ## Spain Brews (Joe and Coloma) 
 
