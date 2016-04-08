@@ -35,4 +35,11 @@ permalink: /arrivals_and_departures/
 - Depart: Will stay there    
     - Details: None
 
+## England Brews (P and S, plus 3 kids and 2rugs)  
+
+- Arrive: 7/23
+- Leave: 7/31
+    - Details: Going straight to SCQ upon arrival
+    - Spending the night of 7/30 in Barcelona
+
 Know your travel plans?  Email them to joebrew@gmail.com.
