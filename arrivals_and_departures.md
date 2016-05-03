@@ -33,6 +33,7 @@ permalink: /arrivals_and_departures/
 
 - Arrive in Barcelona on 7/23 at 10:05AM
 - Leave (to Switzerland) early on 8/2
+- Graham arrives in Barcelona on 7/22, heads to SCQ with his parents on 7/24, and leaves for Belgium on 7/28
 
 ## England Brews (P and S, plus 3 kids and 2rugs)  
 
