@@ -42,10 +42,11 @@ permalink: /arrivals_and_departures/
     - Going straight to SCQ upon arrival
     - Spending the night of 7/30 in Barcelona
 
-## Toronto Brews (X and B)
+## Toronto Brews (X and B, plus Steven the rug)
 
 - Arrive in Barcelona on 7/23 at 13:30
-- Leave from Barcelona on 7/30 at 15:00
+- Ben and Steven leave from Barcelona on 7/30 at 15:00
+- Xing leaves from Barcelona on August 6th
 
 ## Portola Valley Brews (J and K plus 2 kids)
 
