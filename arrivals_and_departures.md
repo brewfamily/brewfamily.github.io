@@ -56,4 +56,9 @@ permalink: /arrivals_and_departures/
     - Coming to Santa Coloma on Monday, 7/25.
     - Going to spend second week traveling around Spain.
 
+## NYC Brews (Carlsons) (parents + baby)
+
+- Arrive in Barcelona 7/24 at 7:55 AM
+- Leave from Barcelona on 8/7 at 13:55
+
 Know your travel plans?  Email them to joebrew@gmail.com.
