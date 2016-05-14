@@ -61,4 +61,10 @@ permalink: /arrivals_and_departures/
 - Arrive in Barcelona 7/24 at 7:55 AM
 - Leave from Barcelona on 8/7 at 13:55
 
+## Sacramento Brews (parents + twins)
+- Arrive in Barcelona 7/23 at 14:50 (on same flight as Pat)
+- Depart from Barcelona 8/8 at 14:40
+    - Renting a car and going straight to SCQ upon arrival
+    - Spending some time in Barcelona in early August
+
 Know your travel plans?  Email them to joebrew@gmail.com.
