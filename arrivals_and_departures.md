@@ -23,9 +23,9 @@ permalink: /arrivals_and_departures/
 - Depart 7/29 at 8:00am   
     - Staying the first night in Barcelona (Joe and Coloma's apartment)
 
-## Palo Alto Longs (S and C) 
+## Palo Alto Longs (S and C and P) 
 
-- Arrive by car from Germany (exact date not known)   
+- Arrive by car from Germany on 7/22 at about noon 
 - Depart 8/3 (exact time not known)  
     - Unknown
 
