@@ -47,11 +47,27 @@ temp <-
   group_by(family, name) %>%
   summarise(arrival = first(date),
             depart = last(date) + 1,
-            arrival_guialmons = first(date[location == 'guialmons']),
-            leave_guialmons = last(date[location == 'guialmons']) + 1)
+            nights_in_guialmons = paste0(format(date[which(status == 'lodging arranged by jc' &
+                                             location == 'guialmons')], '%m-%d'), collapse = ', '),
+            nights_on_own = paste0(format(date[which(status == 'arrange own lodging')], '%m-%d'), collapse = ', '),
+            nights_in_arranged_bcn_appt = paste0(format(date[which(status == 'lodging arranged by jc' & location == 'barcelona')], '%m-%d'), collapse = ', '))
+
+# # Clean out repeat family names
+# for (i in nrow(temp):2){
+#   while(temp$family[i-1] == temp$family[i]){
+#     temp$family[i] <- ''
+#   }
+# }
+
+# Give an id number and reorder
+
+
+# Clean up column names
+names(temp) <- gsub('_', ' ', Hmisc::capitalize(names(temp)))
+
 
 # Write an html table
-kable(temp)
+kable(temp, row.names = TRUE)
 
 # Join nights and houses
 df <- full_join(x = nights,
