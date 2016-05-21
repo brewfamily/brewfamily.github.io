@@ -1,0 +1,98 @@
+# Libraries
+library(gsheet)
+library(dplyr)
+library(xtable)
+library(knitr)
+
+# Get link of master spreadsheet
+url_nights <- 'https://docs.google.com/spreadsheets/d/1VIYQr6VZzhJrJM0zSuUMhI0sQ8bjPwDscA_F6sxP7cA/edit?usp=sharing'
+# Link of the rooms spreadsheet
+url_rooms <- 'https://docs.google.com/spreadsheets/d/1eSF79SEKd9i0N6P6Z1rAVs4XSF5eN-sSWmIzItWoDcs/edit?usp=sharing'
+# Link of the houses spreadsheet
+url_houses <- 'https://docs.google.com/spreadsheets/d/1lZmV4-IxrM1GEb7_qAoYZ58G02UybOz308Kd0gfTSnE/edit?usp=sharing'
+
+# Read into memory
+nights <- gsheet2tbl(url_nights)
+rooms <- gsheet2tbl(url_rooms)
+houses <- gsheet2tbl(url_houses)
+
+# Clean up a dates
+nights$date <- as.Date(nights$date, '%m/%d/%Y')
+rooms$date <- as.Date(rooms$date, '%m/%d/%Y')
+
+# Get day of week
+nights$day <- weekdays(nights$date)
+rooms$day <- weekdays(rooms$date)
+
+####################
+
+# Get reserved house/rooms by date (just for guialmons)
+occupations <-
+  nights %>%
+  filter(location == 'guialmons') %>%
+  group_by(date, house, room) %>%
+  tally 
+
+# Join to available nights
+availabilities <- 
+  left_join(x = rooms,
+            y = occupations,
+            by = c('date', 'house', 'room')) %>%
+  mutate(available = is.na(n)) %>%
+  arrange(available, date)
+
+# Group by family, name, date, and get lodging info
+temp <-
+  nights %>%
+  group_by(family, name) %>%
+  summarise(arrival = first(date),
+            depart = last(date) + 1,
+            arrival_guialmons = first(date[location == 'guialmons']),
+            leave_guialmons = last(date[location == 'guialmons']) + 1)
+
+# Write an html table
+kable(temp)
+
+# Join nights and houses
+df <- full_join(x = nights,
+                y = houses)
+
+
+
+# Explore
+nights %>% 
+  filter(date == '2016-08-05') %>%
+  filter(location == 'guialmons') %>%
+  data.frame %>%
+  View
+
+# Person
+nights %>%
+  filter(name == 'Tom Brew') %>%
+  filter(location == 'guialmons') %>%
+  data.frame %>%
+  View
+
+nights %>%
+  filter(location == 'guialmons') %>%
+  group_by(date) %>%
+  tally %>% 
+  View
+
+nights %>%
+  filter(location == 'barcelona') %>%
+  group_by(date) %>%
+  tally %>% 
+  View
+
+# Total nights in guialmons
+x <- nights %>%
+  filter(location == 'guialmons')
+
+6120 / nrow(x)
+
+# Create an html table
+people <- 
+  nights %>%
+  group_by(name, location, sub_location) %>%
+  tally

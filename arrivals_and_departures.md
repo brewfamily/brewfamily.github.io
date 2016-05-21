@@ -25,7 +25,8 @@ permalink: /arrivals_and_departures/
 
 ## Palo Alto Longs (S and C and P) 
 
-- Arrive by car from Germany on 7/22 at about noon 
+- S and C arrive from Germany on 7/22 at 12:05
+- PT arrives on 7/22 at 8:45pm
 - Depart 8/3 (exact time not known)  
     - Unknown
 
@@ -34,13 +35,14 @@ permalink: /arrivals_and_departures/
 - Arrive in Barcelona on 7/23 at 10:05AM
 - Leave (to Switzerland) early on 8/2
 - Graham arrives in Barcelona on 7/22, heads to SCQ with his parents on 7/24, and leaves for Belgium on 7/28
+- Assuming Brad is arriving and departing same days as parents (waiting on confirmation)
 
 ## England Brews (P and S, plus 3 kids and 2rugs)  
 
 - Arrive: 7/23
-- Leave: 7/31
+- Leave: 8/1
     - Going straight to SCQ upon arrival
-    - Spending the night of 7/30 in Barcelona
+    - Spending the nights of 7/30 and 7/31 in Barcelona
 
 ## Toronto Brews (X and B, plus Steven the rug)
 
