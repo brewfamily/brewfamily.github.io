@@ -5,46 +5,214 @@ permalink: /people/
 ---
 
 <h1>Who's in</h1>
-
-|   |Family               |Name             |Arrival    |Depart     |Nights in guialmons                                                                                     |Nights on own                                   |Nights in arranged bcn appt |
-|:--|:--------------------|:----------------|:----------|:----------|:-------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------------------------|
-|1  |Canada Brews         |Ben Brew         |2016-07-23 |2016-07-30 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |                                                |                            |
-|2  |                     |Steven Bottcher  |2016-07-23 |2016-07-30 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |                                                |                            |
-|3  |                     |Xing Brew        |2016-07-23 |2016-08-06 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30                                                  |07-31, 08-01, 08-02, 08-03, 08-04, 08-05        |                            |
-|4  |England Brews        |Christopher Brew |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |07-30, 07-31                                    |                            |
-|5  |                     |Kathryn Brew     |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |                                                |07-30, 07-31                |
-|6  |                     |Michael Brew     |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |07-30, 07-31                                    |                            |
-|7  |                     |Nicole Brew      |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |07-30, 07-31                                    |                            |
-|8  |                     |Olga Brew        |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |07-30, 07-31                                    |                            |
-|9  |                     |Pat Brew         |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |                                                |07-30, 07-31                |
-|10 |                     |Sue Brew         |2016-07-23 |2016-08-01 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29                                                         |                                                |07-30, 07-31                |
-|11 |Gainesville Brews    |Chris Brew       |2016-07-24 |2016-08-06 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |                            |
-|12 |                     |Jaya Brew        |2016-07-24 |2016-08-06 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |                            |
-|13 |                     |Kaelin Holmes    |2016-07-24 |2016-08-06 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |                            |
-|14 |                     |Michael Leeper   |2016-07-24 |2016-08-06 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |                            |
-|15 |                     |Rory             |2016-07-24 |2016-08-06 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |                            |
-|16 |NYC Carlsons         |Anna Carlson     |2016-07-24 |2016-08-07 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06        |                                                |                            |
-|17 |                     |Arthur Carlson   |2016-07-24 |2016-08-07 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06        |                                                |                            |
-|18 |                     |Nicholas Carlson |2016-07-24 |2016-08-07 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06        |                                                |                            |
-|19 |Palo Alto Longs      |Cece Long        |2016-07-22 |2016-08-03 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02                                           |07-22, 07-23, 07-24                             |                            |
-|20 |                     |PT Long          |2016-07-22 |2016-08-03 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02                             |07-22                                           |                            |
-|21 |                     |Steve Long       |2016-07-22 |2016-08-03 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02                                           |07-22, 07-23, 07-24                             |                            |
-|22 |Portola Valley Brews |Ellie Brew       |2016-07-23 |2016-08-05 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30                                                                |07-23, 07-24, 07-31, 08-01, 08-02, 08-03, 08-04 |                            |
-|23 |                     |John Brew        |2016-07-23 |2016-08-05 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30                                                                |07-23, 07-24, 07-31, 08-01, 08-02, 08-03, 08-04 |                            |
-|24 |                     |Kristin Brew     |2016-07-23 |2016-08-05 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30                                                                |07-23, 07-24, 07-31, 08-01, 08-02, 08-03, 08-04 |                            |
-|25 |                     |Nora Brew        |2016-07-23 |2016-08-05 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30                                                                |07-23, 07-24, 07-31, 08-01, 08-02, 08-03, 08-04 |                            |
-|26 |Sacramento Brews     |Charlie Brew     |2016-07-24 |2016-08-08 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |08-06, 08-07                |
-|27 |                     |Janette Brew     |2016-07-24 |2016-08-08 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |08-06, 08-07                |
-|28 |                     |Mike Brew        |2016-07-24 |2016-08-08 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |08-06, 08-07                |
-|29 |                     |Sam Brew         |2016-07-24 |2016-08-08 |07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05               |                                                |08-06, 08-07                |
-|30 |San Jose Brews       |Caroline Brew    |2016-07-24 |2016-07-29 |07-25, 07-26, 07-27, 07-28                                                                              |                                                |07-24                       |
-|31 |                     |Fred Brew        |2016-07-24 |2016-07-29 |07-25, 07-26, 07-27, 07-28                                                                              |                                                |07-24                       |
-|32 |                     |Sarah Brew       |2016-07-24 |2016-07-29 |07-25, 07-26, 07-27, 07-28                                                                              |                                                |07-24                       |
-|33 |                     |Wendy Brew       |2016-07-24 |2016-07-29 |07-25, 07-26, 07-27, 07-28                                                                              |                                                |07-24                       |
-|34 |Spain Brews          |Coloma Farre     |2016-07-23 |2016-08-07 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06 |                                                |                            |
-|35 |                     |Joe Brew         |2016-07-23 |2016-08-07 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06 |                                                |                            |
-|36 |                     |Ramona Farre     |2016-07-23 |2016-08-07 |07-23, 07-24, 07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01, 08-02, 08-03, 08-04, 08-05, 08-06 |                                                |                            |
-|37 |Washington Brews     |Brad Brew        |2016-07-23 |2016-08-02 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01                                                  |07-23, 07-24                                    |                            |
-|38 |                     |Dawn Brew        |2016-07-23 |2016-08-02 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01                                                  |07-23, 07-24                                    |                            |
-|39 |                     |Graham Brew      |2016-07-22 |2016-07-28 |07-24, 07-25, 07-26, 07-27                                                                              |07-22, 07-23                                    |                            |
-|40 |                     |Tom Brew         |2016-07-23 |2016-08-02 |07-25, 07-26, 07-27, 07-28, 07-29, 07-30, 07-31, 08-01                                                  |07-23, 07-24                                    |                            |
+<table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
+<thead>
+<tr>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey;'> </th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Family</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style='text-align: left;'>1</td>
+<td style='text-align: center;'>Canada Brews</td>
+<td style='text-align: center;'>Ben Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>2</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Steven Bottcher</td>
+</tr>
+<tr>
+<td style='text-align: left;'>3</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Xing Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>4</td>
+<td style='text-align: center;'>England Brews</td>
+<td style='text-align: center;'>Christopher Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>5</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Kathryn Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>6</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Michael Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>7</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Nicole Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>8</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Olga Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>9</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Pat Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>10</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Sue Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>11</td>
+<td style='text-align: center;'>Gainesville Brews</td>
+<td style='text-align: center;'>Chris Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>12</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Jaya Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>13</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Kaelin Holmes</td>
+</tr>
+<tr>
+<td style='text-align: left;'>14</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Michael Leeper</td>
+</tr>
+<tr>
+<td style='text-align: left;'>15</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Rory</td>
+</tr>
+<tr>
+<td style='text-align: left;'>16</td>
+<td style='text-align: center;'>NYC Carlsons</td>
+<td style='text-align: center;'>Anna Carlson</td>
+</tr>
+<tr>
+<td style='text-align: left;'>17</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Arthur Carlson</td>
+</tr>
+<tr>
+<td style='text-align: left;'>18</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Nicholas Carlson</td>
+</tr>
+<tr>
+<td style='text-align: left;'>19</td>
+<td style='text-align: center;'>Palo Alto Longs</td>
+<td style='text-align: center;'>Cece Long</td>
+</tr>
+<tr>
+<td style='text-align: left;'>20</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>PT Long</td>
+</tr>
+<tr>
+<td style='text-align: left;'>21</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Steve Long</td>
+</tr>
+<tr>
+<td style='text-align: left;'>22</td>
+<td style='text-align: center;'>Portola Valley Brews</td>
+<td style='text-align: center;'>Ellie Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>23</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>John Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>24</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Kristin Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>25</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Nora Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>26</td>
+<td style='text-align: center;'>Sacramento Brews</td>
+<td style='text-align: center;'>Charlie Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>27</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Janette Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>28</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Mike Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>29</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Sam Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>30</td>
+<td style='text-align: center;'>San Jose Brews</td>
+<td style='text-align: center;'>Caroline Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>31</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Fred Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>32</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Sarah Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>33</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Wendy Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>34</td>
+<td style='text-align: center;'>Spain Brews</td>
+<td style='text-align: center;'>Coloma Farre</td>
+</tr>
+<tr>
+<td style='text-align: left;'>35</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Joe Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>36</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Ramona Farre</td>
+</tr>
+<tr>
+<td style='text-align: left;'>37</td>
+<td style='text-align: center;'>Washington Brews</td>
+<td style='text-align: center;'>Brad Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>38</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Dawn Brew</td>
+</tr>
+<tr>
+<td style='text-align: left;'>39</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>Graham Brew</td>
+</tr>
+<tr>
+<td style='border-bottom: 2px solid grey; text-align: left;'>40</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'></td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>Tom Brew</td>
+</tr>
+</tbody>
+</table>

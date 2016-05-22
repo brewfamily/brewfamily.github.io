@@ -3,6 +3,7 @@ library(gsheet)
 library(dplyr)
 library(xtable)
 library(knitr)
+library(htmlTable)
 
 # Get link of master spreadsheet
 url_nights <- 'https://docs.google.com/spreadsheets/d/1VIYQr6VZzhJrJM0zSuUMhI0sQ8bjPwDscA_F6sxP7cA/edit?usp=sharing'
@@ -41,6 +42,21 @@ availabilities <-
   mutate(available = is.na(n)) %>%
   arrange(available, date)
 
+#################################
+# Get a list of people
+temp <- nights %>%
+  filter(!duplicated(name)) %>%
+  mutate(id = 1:40) %>%
+  dplyr::select(family, name)
+# Clean out repeat family names
+for (i in nrow(temp):2){
+  while(temp$family[i-1] == temp$family[i]){
+    temp$family[i] <- ''
+  }
+}
+x <- htmlTable(temp)
+str(x)
+
 # Group by family, name, date, and get lodging info
 temp <-
   nights %>%
@@ -74,6 +90,11 @@ df <- full_join(x = nights,
                 y = houses)
 
 
+####################################
+
+# GET COST DETAILS
+
+####################################
 
 # Explore
 nights %>% 
