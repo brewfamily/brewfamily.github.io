@@ -4,69 +4,10 @@ title: Arrivals and departures
 permalink: /arrivals_and_departures/
 ---
 
-(All arrivals/departures are from the Barcelona airport, unless otherwise specified)
 
-## Spain Brews (Joe, Coloma, Ramona) 
+The below spreadsheet has the most up-to-date information for arrivals and departures. To visit in a separate window, click <a href="https://docs.google.com/spreadsheets/d/1v70i20A7-cL6gXjObqkIqEKvzmqoR0hH0BM7FvaaMTI/edit#gid=0">HERE</a>.
 
-- Arrive: Will already be there    
-- Depart: Will stay there    
+<iframe width="600" height="600"src="https://docs.google.com/spreadsheets/d/1v70i20A7-cL6gXjObqkIqEKvzmqoR0hH0BM7FvaaMTI/edit#gid=0"></iframe>
 
-## Gainesville Brews (Chris, Jaya, Kaelin, Michael, Rory)
-
-- Arrive: 7/24 at 11:50am   
-- Depart: 8/6 at 6:40am  
-    - Renting a car. Driving straight to SCQ
-
-## San Jose Brews (all of em)
-
-- Arrive: 7/24 at 10:05am  
-- Depart 7/29 at 8:00am   
-    - Staying the first night in Barcelona (Joe and Coloma's apartment)
-
-## Palo Alto Longs (S and C and P) 
-
-- S and C arrive from Germany on 7/22 at 12:05
-- PT arrives on 7/22 at 8:45pm
-- Depart 8/3 (exact time not known)  
-    - Unknown
-
-## Washington Brews (T and D)  
-
-- Arrive in Barcelona on 7/23 at 10:05AM
-- Leave (to Switzerland) early on 8/2
-- Graham arrives in Barcelona on 7/22, heads to SCQ with his parents on 7/24, and leaves for Belgium on 7/28
-- Assuming Brad is arriving and departing same days as parents (waiting on confirmation)
-
-## England Brews (P and S, plus 3 kids and 2rugs)  
-
-- Arrive: 7/23
-- Leave: 8/1
-    - Going straight to SCQ upon arrival
-    - Spending the nights of 7/30 and 7/31 in Barcelona
-
-## Toronto Brews (X and B, plus Steven the rug)
-
-- Arrive in Barcelona on 7/23 at 13:30
-- Ben and Steven leave from Barcelona on 7/30 at 15:00
-- Xing leaves from Barcelona on August 6th
-
-## Portola Valley Brews (J and K plus 2 kids)
-
-- Arrive in Barcelona on 7/23 (in the morning)
-- Leave from Barcelona on 8/5
-    - Going to spend first two nights (7/23, 7/24) in a hotel in Barcelona.
-    - Coming to Santa Coloma on Monday, 7/25.
-    - Going to spend second week traveling around Spain.
-
-## NYC Brews (Carlsons) (parents + baby)
-
-- Arrive in Barcelona 7/24 at 7:55 AM
-- Leave from Barcelona on 8/7 at 13:55
-
-## Sacramento Brews (parents + twins)
-- Arrive in Barcelona 7/23 at 14:50 (on same flight as Pat)
-- Depart from Barcelona 8/8 at 14:40
-    - Renting a car and going straight to SCQ upon arrival
-    - Spending some time in Barcelona in early August
 
 Know your travel plans?  Email them to joebrew@gmail.com.

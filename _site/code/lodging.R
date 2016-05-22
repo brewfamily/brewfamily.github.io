@@ -11,15 +11,20 @@ url_nights <- 'https://docs.google.com/spreadsheets/d/1VIYQr6VZzhJrJM0zSuUMhI0sQ
 url_rooms <- 'https://docs.google.com/spreadsheets/d/1eSF79SEKd9i0N6P6Z1rAVs4XSF5eN-sSWmIzItWoDcs/edit?usp=sharing'
 # Link of the houses spreadsheet
 url_houses <- 'https://docs.google.com/spreadsheets/d/1lZmV4-IxrM1GEb7_qAoYZ58G02UybOz308Kd0gfTSnE/edit?usp=sharing'
+# Link of the arrivals/departures spreadsheet
+url_arrivals <- 'https://docs.google.com/spreadsheets/d/1v70i20A7-cL6gXjObqkIqEKvzmqoR0hH0BM7FvaaMTI/edit?usp=sharing'
 
 # Read into memory
 nights <- gsheet2tbl(url_nights)
 rooms <- gsheet2tbl(url_rooms)
 houses <- gsheet2tbl(url_houses)
+arrivals <- gsheet2tbl(url_arrivals)
 
 # Clean up a dates
 nights$date <- as.Date(nights$date, '%m/%d/%Y')
 rooms$date <- as.Date(rooms$date, '%m/%d/%Y')
+arrivals$arrival_date <- as.Date(arrival_date, '%m/%d/%Y')
+arrivals$departure_date <- as.Date(departure_date, '%m/%d/%Y')
 
 # Get day of week
 nights$day <- weekdays(nights$date)
@@ -94,6 +99,10 @@ df <- full_join(x = nights,
 
 # GET COST DETAILS
 
+# Total number of nights arranged by j/c divided by total cost
+sum(houses$cost) / 
+  nrow(nights %>% filter(status == 'lodging arranged by jc'))
+
 ####################################
 
 # Explore
@@ -110,11 +119,17 @@ nights %>%
   data.frame %>%
   View
 
+# Get total people staying in guialmons
 nights %>%
   filter(location == 'guialmons') %>%
   group_by(date) %>%
   tally %>% 
   View
+
+# Get total capacity of guialmons
+availabilities %>%
+  group_by(date) %>%
+  summarise(cap = sum(capacity))
 
 nights %>%
   filter(location == 'barcelona') %>%
