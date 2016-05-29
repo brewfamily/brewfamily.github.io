@@ -99,9 +99,33 @@ df <- full_join(x = nights,
 
 # GET COST DETAILS
 
+# BY PERSON  -------------------------
 # Total number of nights arranged by j/c divided by total cost
 sum(houses$cost) / 
   nrow(nights %>% filter(status == 'lodging arranged by jc'))
+
+# BY ROOM -------------------------
+room_per_night <- 
+  sum(houses$cost) / 
+  nrow(occupations)
+
+# Get number of room-nights occupied by each family
+billing <-
+  nights %>%
+  filter(location == 'guialmons') %>%
+  group_by(family, date, room) %>%
+  summarise(x = n()) %>%
+  # join to the number of total people in that room
+  left_join(occupations) %>%
+  # calcuate the percentage of that room paid
+  mutate(p = x / n) %>%
+  # multiply by cost
+  mutate(cost = room_per_night * p) %>%
+  # group by family and get total cost
+  ungroup %>%
+  group_by(family) %>%
+  summarise(total_cost = sum(cost, na.rm = TRUE))
+  
 
 ####################################
 
