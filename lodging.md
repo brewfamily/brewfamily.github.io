@@ -6,7 +6,7 @@ permalink: /lodging/
 
 ## Layout
 
-![Image of housing layout](http://brewfamily.github.io/img/lodging.png)
+![Image of housing layout](http://brewfamily.github.io/img/housing.png)
 
 
 ## By night
