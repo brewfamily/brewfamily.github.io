@@ -96,8 +96,14 @@ df <- full_join(x = nights,
 
 
 ####################################
-
 # GET COST DETAILS
+
+# Get number of nights in guialmons per person
+x <- 
+  nights %>%
+  filter(location == 'guialmons') %>%
+  group_by(name) %>%
+  summarise(nights_in_guialmons = n())
 
 # BY PERSON  -------------------------
 # Total number of nights arranged by j/c divided by total cost
@@ -109,23 +115,27 @@ room_per_night <-
   sum(houses$cost) / 
   nrow(occupations)
 
-# Get number of room-nights occupied by each family
-billing <-
+# Get number of room-nights occupied by each person
+cost_per_person <-
   nights %>%
   filter(location == 'guialmons') %>%
-  group_by(family, date, room) %>%
-  summarise(x = n()) %>%
-  # join to the number of total people in that room
-  left_join(occupations) %>%
-  # calcuate the percentage of that room paid
-  mutate(p = x / n) %>%
-  # multiply by cost
-  mutate(cost = room_per_night * p) %>%
-  # group by family and get total cost
+  dplyr::select(date, name, family, house, room) %>%
+  # Get the total number of people in that room that night
+  left_join(occupations %>%
+              rename(total_people_in_room = n)) %>%
+  mutate(proportion_of_room = 1 / total_people_in_room) %>%
+  mutate(cost = proportion_of_room * room_per_night) %>%
+  # Get overall per person
+  group_by(name) %>%
+  summarise(family = first(family),
+            number_of_nights_in_guialmons = n(),
+            number_of_room_nights = sum(proportion_of_room),
+            average_cost_per_night = mean(cost),
+            total_cost = sum(cost)) %>%
   ungroup %>%
-  group_by(family) %>%
-  summarise(total_cost = sum(cost, na.rm = TRUE))
-  
+  arrange(family)
+names(cost_per_person) <- Hmisc::capitalize(gsub('_', ' ', names(cost_per_person)))
+kable(cost_per_person)
 
 ####################################
 

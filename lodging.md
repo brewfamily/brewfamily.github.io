@@ -4,6 +4,12 @@ title: Lodging
 permalink: /lodging/
 ---
 
+## Layout
+
+![Image of housing layout](http://brewfamily.github.io/img/lodging.png)
+
+
+## By night
 
 |   |Family               |Name             |Arrival    |Depart     |Nights in guialmons                                                                                     |Nights on own                                   |Nights in arranged bcn appt |
 |:--|:--------------------|:----------------|:----------|:----------|:-------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------------------------|
