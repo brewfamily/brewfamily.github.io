@@ -114,6 +114,7 @@ sum(houses$cost) /
 room_per_night <- 
   sum(houses$cost) / 
   nrow(occupations)
+room_per_night
 
 # Get number of room-nights occupied by each person
 cost_per_person <-
@@ -131,8 +132,11 @@ cost_per_person <-
             number_of_nights_in_guialmons = n(),
             number_of_room_nights = sum(proportion_of_room),
             average_cost_per_night = mean(cost),
-            total_cost = sum(cost)) %>%
+            total_lodging_cost = round(sum(cost))) %>%
   ungroup %>%
+  mutate(food_and_water = 20) %>%
+  mutate(total_euros = round(total_lodging_cost + food_and_water)) %>%
+  mutate(total_dollars = round(total_euros * 1.115)) %>%
   arrange(family)
 names(cost_per_person) <- Hmisc::capitalize(gsub('_', ' ', names(cost_per_person)))
 kable(cost_per_person)
