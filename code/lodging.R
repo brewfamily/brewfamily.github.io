@@ -51,7 +51,7 @@ availabilities <-
 # Get a list of people
 temp <- nights %>%
   filter(!duplicated(name)) %>%
-  mutate(id = 1:40) %>%
+  mutate(id = 1:39) %>%
   dplyr::select(family, name)
 # Clean out repeat family names
 for (i in nrow(temp):2){
@@ -60,7 +60,6 @@ for (i in nrow(temp):2){
   }
 }
 x <- htmlTable(temp)
-str(x)
 
 # Group by family, name, date, and get lodging info
 temp <-
