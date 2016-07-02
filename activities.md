@@ -19,7 +19,8 @@ permalink: /activities/
     <li> 12:30 - 13:30: Market in town square and groceries
     <li> 13:30 - 15:30: "Vermut" and sandwiches in town square
     <li> 15:30 - 16:30: Walk/drive back to Guialmons
-    <li> 20:00: Gainesville Brews make BBQ dinner</ul>
+    <li> 19:00 - Horseback riding and dinner at http://www.cancasellas.cat/
+    </ul>
 </ul>
 
 
@@ -28,7 +29,7 @@ permalink: /activities/
     <li> 08:00 - 11:00: Hike San Miquel
     <li> 13:00 - 15:00: Lunch at Colomi restaurant
     <li> 15:00 - 17:00: SCQ pool
-    <li> 20:00: Canada/NYC Brews make dinner
+    <li> 20:00: Gainesville Brews make BBQ dinner
 </ul>
 
 
