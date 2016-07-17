@@ -13,8 +13,8 @@ permalink: /activities/
 <b>Sunday</b><em> July 24</em>
 <ul>
     <li> 15:00: Ultimate frisbee game in Guialmons
-    <li> 19:00: Tapas meet-up in Barcelona (for those that are there)   
-    <li> 19:00: Tapas meet-up in Santa Coloma (for those that are there)
+    <li> 19:00: Tapas meet-up in Barcelona (for those that are there) at [Cafeteria Rovica](https://goo.gl/maps/3x8r2bfUrpR2)  
+    <li> 19:00: Tapas meet-up in Santa Coloma at [Snack Bar Rosa](http://www.paginasamarillas.es/f/santa-coloma-de-queralt/bar-rosa_211070198_000000001.html)
 </ul>
 
 <b>Monday</b><em> July 25</em>
