@@ -16,6 +16,7 @@ permalink: /preparation/
 
 - Plug adaptor (so that you can charge your devices)
 - Sun protection (sun screen, hat, glasses)
-- Bathing suit
+- Bathing suit and beach towels
 - Hiking gear (shoes, comfortable clothes)
 - At least 1 "cold" outfit (sweater, pants, etc.) (evenings can be chilly)
+- A nice-ish outfit if you want to go to mass
