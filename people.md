@@ -196,21 +196,16 @@ permalink: /people/
 </tr>
 <tr>
 <td style='text-align: left;'>37</td>
-<td style='text-align: center;'>Washington Brews</td>
-<td style='text-align: center;'>Brad Brew</td>
-</tr>
-<tr>
-<td style='text-align: left;'>38</td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'>Dawn Brew</td>
 </tr>
 <tr>
-<td style='text-align: left;'>39</td>
+<td style='text-align: left;'>38</td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'>Graham Brew</td>
 </tr>
 <tr>
-<td style='border-bottom: 2px solid grey; text-align: left;'>40</td>
+<td style='border-bottom: 2px solid grey; text-align: left;'>39</td>
 <td style='border-bottom: 2px solid grey; text-align: center;'></td>
 <td style='border-bottom: 2px solid grey; text-align: center;'>Tom Brew</td>
 </tr>
