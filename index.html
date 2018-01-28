@@ -5,6 +5,18 @@ layout: default
 <div class="home">
 
 
+{%   assign today = site.time | date: '%s'      %}
+{%   assign start = '28-01-2018 01:00:00' | date: '%s'  %}
+{%   assign secondsSince = today | minus: start     %}
+{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60     %}
+{%   assign daysSince = hoursSince | divided_by: 24  %}
+
+<div align='center'>
+<big><big><big><big><big><big>Day number</big></big></big></big></big></big>
+<br>
+<big><big><big><big><big><big><big><big><big><big><big><big>{{daysSince}}</big></big></big></big></big></big></big></big></big></big></big></big>
+</div>
+
 <h1 align='center'>Dates</h1>  
 
 <ul>
