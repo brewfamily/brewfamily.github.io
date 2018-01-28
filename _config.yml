@@ -1,7 +1,7 @@
 # Site settings
-title: PML 2016
+title: The streak
 email: 
-description: Brew family reunion in Spain
+description: Brew family
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brewfamily.github.io" # the base hostname & protocol for your site
 # twitter_username: username

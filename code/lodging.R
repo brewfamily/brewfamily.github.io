@@ -47,6 +47,10 @@ availabilities <-
   mutate(available = is.na(n)) %>%
   arrange(available, date)
 
+# See unoccupied nights
+x = availabilities %>%
+  filter(available)
+
 #################################
 # Get a list of people
 temp <- nights %>%
@@ -141,6 +145,17 @@ names(cost_per_person) <- Hmisc::capitalize(gsub('_', ' ', names(cost_per_person
 kable(cost_per_person)
 
 ####################################
+
+# Get housing roster
+x <- 
+  nights %>%
+  filter(location == 'guialmons') %>%
+  group_by(family, name) %>%
+  summarise(first_night = first(date),
+            last_night = last(date),
+            house = paste0(unique(house), collapse = ', '),
+            room = paste0(unique(room), collapse = ', '))
+readr::write_csv(x, '~/Desktop/housing_roster.csv')
 
 # Explore
 nights %>% 
